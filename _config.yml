@@ -1,1 +1,5 @@
+- name: Secret Detector
+  uses: evanextreme/detect-secrets-action@1.0.0
+- name: OWASP ZAP Full Scan
+  uses: zaproxy/action-full-scan@v0.1.0
 theme: jekyll-theme-hacker
